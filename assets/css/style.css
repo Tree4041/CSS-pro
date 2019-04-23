@@ -1,0 +1,81 @@
+*{
+	color:white;
+}
+
+
+
+
+.background {
+		background: url(../img/smoke.gif) no-repeat
+			center center fixed;
+			-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+}
+#imagine {
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	margin-left: 35%;
+	font-size: 40px;
+}
+img{
+	margin-left: 40%;
+	font-size: 25px;
+}
+.content{
+	background: rgba(0,0,0,.4);
+	width: 60%;
+	height: auto;
+	margin: auto;
+}
+.intro{
+	font-family:helvetica;
+	font-size:25px;
+	color:white;
+/*
+	width: 1000px;
+	position:absolute;
+	padding-left: 50%;
+	padding-top: 500px;
+*/
+}
+.Eye{
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	padding-right: 50%;
+}
+ul{ list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow:hidden;
+	
+}
+li {
+	display: inline-block;
+	margin: 20px;
+
+}
+li a{padding-left: 90px;
+	margin-left: 90px;
+	text-decoration: none;
+	list-style: none;
+	font-size: 30px;
+}
+
+nav a{
+	position:fixed;
+	display:contents;
+}
+.daydreams{
+	font-family: 'Courgette', cursive;
+	font-size: 30px;
+	
+}
+.me img{
+/*	padding-right: 100%;*/
+	border-radius: 100%;
+	margin: auto;
+}
+.message{
+	height: 100px;
+}
